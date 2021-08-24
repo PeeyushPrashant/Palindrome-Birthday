@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body{
+    font-family: 'Source Code Pro', monospace;   
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    margin-top: 4rem;
+    max-width: 600px;
+}
+
+#input{
+    width: 12rem;
+    height: 2.3rem;
+    margin: 1rem 0rem;
+    border: 2px solid #f3722c;
+    border-radius: 0.5rem;
+}
+
+#check-btn{
+    width: 5rem;
+    height: 2rem;
+    margin: 0.2rem 0rem 1.2rem;
+    background-color: #f8f9fa;
+    color: #f3722c;
+    border: 1.8px solid #f3722c;
+    border-radius: 0.5rem;
+}
